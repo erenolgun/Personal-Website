@@ -31,13 +31,13 @@ const Nav = () => {
         </div>
 
         <div className='flex flex-col items-end mr-12'>
-          <a href='#' className='text-sm text-primary'>
+          <a href='#' className='text-base text-primary'>
             about me
           </a>
-          <a href='#' className='text-sm mt-1'>
+          <a href='#' className='text-base mt-1'>
             projects
           </a>
-          <a href='#' className='text-sm mt-1'>
+          <a href='#' className='text-base mt-1'>
             contact me
           </a>
         </div>
