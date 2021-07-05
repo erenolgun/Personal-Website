@@ -15,22 +15,37 @@ const Home = () => {
           Beyazit University, Turkey. I’m interested in frontend web development
           with over 2 years. Currently working as an Frontend Web Developer
           Intern at{' '}
-          <a className='text-primary' href='#'>
+          <a
+            className='text-primary transition-all transform hover:underline duration-200'
+            href='https://gefeasoft.com/'
+            target='_blank'>
             GEFEASOFT
           </a>
           .
         </p>
         <div>
-          <a href='#' className='text-light text-lg mr-3 sm:text-2xl sm:mr-8'>
+          <a
+            href='https://www.linkedin.com/in/mehmeterenolgun/'
+            className='text-light text-lg mr-3 sm:text-2xl sm:mr-8 hover:text-hover transform transition-colors duration-200'
+            target='_blank'>
             LinkedIn
           </a>
-          <a href='#' className='text-light text-lg mr-3 sm:text-2xl sm:mr-8'>
+          <a
+            href='https://github.com/erenolgun'
+            className='text-light text-lg mr-3 sm:text-2xl sm:mr-8 hover:text-hover transform transition-colors duration-200'
+            target='_blank'>
             GitHub
           </a>
-          <a href='#' className='text-light text-lg mr-3 sm:text-2xl sm:mr-8'>
+          <a
+            href='https://www.behance.net/mehmeterenolgun'
+            className='text-light text-lg mr-3 sm:text-2xl sm:mr-8 hover:text-hover transform transition-colors duration-200'
+            target='_blank'>
             Behance
           </a>
-          <a href='#' className='text-light text-lg sm:text-2xl'>
+          <a
+            href='https://www.instagram.com/erenolguun/'
+            className='text-light text-lg sm:text-2xl hover:text-hover transform transition-colors duration-200'
+            target='_blank'>
             Instagram
           </a>
         </div>

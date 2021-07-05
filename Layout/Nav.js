@@ -33,13 +33,13 @@ const Nav = () => {
         </div>
 
         <div className='hidden sm:flex flex-col items-end mr-12'>
-          <a href='#' className='text-base text-primary'>
+          <a href='/' className='text-base text-primary'>
             about me
           </a>
-          <a href='#' className='text-base mt-1'>
-            projects
+          <a href='/work' className='text-base mt-1'>
+            work
           </a>
-          <a href='#' className='text-base mt-1'>
+          <a href='/contact-me' className='text-base mt-1'>
             contact me
           </a>
         </div>
