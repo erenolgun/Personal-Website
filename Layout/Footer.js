@@ -1,9 +1,5 @@
 import React from 'react';
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faLinkedIn } from '@fortawesome/free-solid-svg-icons';
-import { github } from '@fortawesome/free-solid-svg-icons';
-
 const Footer = () => {
   return (
     <footer className='p-12 md:p-10 lg:p-12 xl:container xl:mx-auto'>
